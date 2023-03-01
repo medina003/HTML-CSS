@@ -1,0 +1,51 @@
+body{
+    margin: 0 0;
+}
+.main{
+    width: 600px;
+    min-height: 600px;
+}
+._header{
+    width: 500px;
+    min-height: 40px;
+    background: yellow;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.left_side{
+    width: 40px;
+    min-height: 290px;
+    padding: 20px;
+    background: yellow;
+    float: left;
+}
+.right_side{
+    width: 450px;
+    min-height: auto;
+    float: left;
+    margin: 0 0 0 10px;
+}
+.article{
+    width: 310px;
+    padding: 20px 0px;
+    min-height: 200px;
+    padding: 20px;
+    background: yellow;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+.ads{
+    width: 50px;
+    min-height: 200px;
+    padding: 20px;
+    background: yellow;
+    float: left;
+}
+.footer{
+    width: 410px;
+    min-height: 40px;
+	padding: 20px;
+    background: yellow;
+	float: left;
+}
